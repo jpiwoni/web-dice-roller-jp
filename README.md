@@ -1,3 +1,3 @@
 # web-dice-roller-jp
 
-# credits: Eric Pogue
+### credits: Eric Pogue
